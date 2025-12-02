@@ -6,7 +6,7 @@ import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/otaku-GamingPortfolio">
+    <BrowserRouter basename="/otaku-GamingPortfolio/MainContent">
       <App />
     </BrowserRouter>
   </React.StrictMode>,
